@@ -128,4 +128,4 @@ CREATE TABLE IF NOT EXISTS sales (
 );
 ```
 
-For the full set of SQL queries and analysis, check the [SQL_queries.sql](link-to-sql-queries-file) file.
+For the full set of SQL queries and analysis, check the [SQL_queries.sql](SQL_queries.sql) file.
